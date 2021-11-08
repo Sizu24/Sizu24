@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sizu24
+- 👋 Hi, I’m Shah!
 - 👀 I’m interested in developing awesome websites, and applications!
 - 🌱 I’m currently learning full-stack web development with JavaScript
 - 💞️ Check out my portfolio at shahchisty.com
