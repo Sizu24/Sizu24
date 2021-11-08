@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sizu24
-- 👀 I’m interested in developing aweome websites, and applications!
+- 👀 I’m interested in developing awesome websites, and applications!
 - 🌱 I’m currently learning full-stack web development with JavaScript
 - 💞️ Check out my portfolio at shahchisty.com
 - 📫 How to reach me: sizu24@me.com
