@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shah!
 - 👀 I’m interested in developing awesome websites, and applications!
-- 🌱 I’m currently learning full-stack web development with JavaScript
+- 🌱 I’m currently a Front End developer, working on becoming full-stack
 - 💞️ Check out my portfolio at shahchisty.com
 - 📫 How to reach me: sizu24@me.com
 
