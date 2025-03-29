@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shah!
 - 👀 I’m interested in developing awesome websites, and applications!
-- 🌱 I’m currently a Full-Stack developer, working on becoming Full-Stack
+- 🌱 I’m currently a Full-Stack developer, working on frontend and backend projcts
 - 💞️ Check out my portfolio at [shahchisty.com](https://shahchisty.com)
 - 📫 How to reach me: sizu24@me.com
 
